@@ -1,0 +1,1 @@
+The GitHub repository URL is https://github.com/sasaprole/ai-powered-erp-system, and all the files from the output directory have been successfully committed, including an updated README file.
